@@ -32,9 +32,7 @@ The streamer's job becomes the stream itself. Everything underneath it runs.
 
 ## Who it's for
 
-Streamers running multi-platform IRL operations as a business. People whose current alternative is a full human team — and who want coverage that human teams can't match, without the cost, overhead, or knowledge loss when staff change.
-
-Built top-down. Maximalist version first, lighter tiers later.
+Streamers who care about their craft — that want coverage that human teams can't match, without the cost, overhead, or knowledge loss when staff change. STRID operates 24/7
 
 ---
 
