@@ -4,13 +4,15 @@ A dedicated AI operations team for high-tier IRL streamers.
 
 ## The problem
 
-The biggest IRL operations in the world are run on memory and group chats. Locations chosen on the drive. Briefs that live in someone's head. Clips that go viral for reasons nobody captures. Knowledge that walks out the door when staff do.
+Talented streamers are being held back by poor planning. Even with professional teams there's human error and limitations.
 
-The teams behind these streamers are good, but they're spread thin. The result is a ceiling on the operation that has nothing to do with the streamer's talent.
+Chatgpt doesn't understand the content, Claude doesn't know what's makes a good stream or a viral clip; because there's no structure to piece everything together.
 
 ## What STRID does
 
-STRID is the operation underneath the operation. A multi-agent system built around the work a top-tier streaming business actually needs done.
+STRID is the operation underneath the operation. A multi-agent system built around the work a top-tier streamer actually needs.
+
+Over a dozen agentic employees working 24/7 to lay the foundations for flawless streams.
 
 **Plans the stream.** Locations, hooks, segments, route, timing, risk flags.
 
@@ -32,9 +34,9 @@ The streamer's job becomes the stream itself. Everything underneath it runs.
 
 ## Who it's for
 
-Streamers running multi-platform IRL operations as a business. People whose current alternative is a full human team — and who want coverage that human teams can't match, without the cost, overhead, or knowledge loss when staff change.
+IRL streamers who's current alternative is a full human team; wanting coverage that human teams can't match, without the cost, overhead, or knowledge loss when staff change.
 
-Built top-down. Maximalist version first, lighter tiers later.
+Streamers at the top of the game who want to strive further.
 
 
 ## The name
